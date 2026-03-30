@@ -105,7 +105,7 @@ http://localhost:7860
 
 ---
 
-## 🧪 Key Highlights (for Evaluation)
+## 🧪 Key Highlights 
 
 * Multi-agent system implemented using CrewAI → see `crew.py`
 * Tool integration (optional Serper API) for external data
